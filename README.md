@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project builds a **machine learning–based fraud detection system** using a Kaggle dataset containing **6.3 million financial transactions**, each labeled as *fraudulent* or *legitimate*.  
+This project builds a **logistic learning–based fraud detection system** using a Kaggle dataset containing **6.3 million financial transactions**, each labeled as *fraudulent* or *legitimate*.  
 The primary objective is to develop a **high-precision fraud detection model** that minimizes false alarms while still capturing a meaningful portion of real fraud cases.
 
 Because fraud investigation teams have limited time and resources, reducing false positives is critical. This project focuses on **precision-first optimization** through hyperparameter tuning and threshold engineering.
